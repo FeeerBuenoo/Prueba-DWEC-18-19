@@ -1,7 +1,7 @@
 # Prueba-DWEC-18-19
 
 ## Hola! Soy Fernando
-[![N|Solid](https://www.alianzafpdual.es/sites/default/files/fileWNyXwY)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.cecapsevilla.org/wp-content/uploads/NP_NUEVO_AZUL.jpg)](https://nodesource.com/products/nsolid)
 
 Este es nuestro primer repositorio en GitHub.
 
