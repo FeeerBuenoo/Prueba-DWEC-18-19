@@ -1,8 +1,7 @@
 # Prueba-DWEC-18-19
 
-# Hola! Soy Fernando
-
-[![N|Solid](http://www.tafadycursos.com/_ld/12/35467887.png)](https://nodesource.com/products/nsolid)
+## Hola! Soy Fernando
+[![N|Solid](https://www.alianzafpdual.es/sites/default/files/fileWNyXwY)](https://nodesource.com/products/nsolid)
 
 Este es nuestro primer repositorio en GitHub.
 
