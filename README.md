@@ -1,8 +1,7 @@
 # Prueba-DWEC-18-19
 
-## Hola! Soy Fernando
+## Hola! Soy Fernando Bueno Romero
 [![N|Solid](https://www.cecapsevilla.org/wp-content/uploads/NP_NUEVO_AZUL.jpg)](https://nodesource.com/products/nsolid)
-
 Este es nuestro primer repositorio en GitHub.
 
 Para la clase de Desarrollo Web en Entorno Cliente del curso 2018/2019.
