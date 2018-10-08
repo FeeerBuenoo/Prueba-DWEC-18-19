@@ -15,9 +15,3 @@ Para la clase de Desarrollo Web en Entorno Cliente del curso 2018/2019.
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-<<<<<<< HEAD
-
-
-¡¡Prueba desde Eclipse!!
-
-2ª Prueba desde Eclipse.
