@@ -1,6 +1,6 @@
 # [FAF & Furious - Google Airport](https://startbootstrap.com/template-overviews/grayscale/)
 
-[Google Airport]https://docs.google.com/presentation/d/1HotIKkw6HnPMOy5x70RfvS87Ca9_50fnjKhCI_1Ljrc/edit#slide=id.g35f391192_00) es una idea de negocio diseñada e ideada por [Alberto Rodríguez](https://es.linkedin.com/in/alberto-rodr%C3%ADguez-granados-a024ba13b), [Fernando Cosa](https://es.linkedin.com/in/fernando-cosa-romero-9855ab132) y [Fernando Bueno](https://es.linkedin.com/in/fernando-bueno-romero-9796b011a), desarrollado en la Universidad [EUSA - Nuevas Profesiones](https://www.eusa.es/).
+[Google Airport](https://docs.google.com/presentation/d/1HotIKkw6HnPMOy5x70RfvS87Ca9_50fnjKhCI_1Ljrc/edit#slide=id.g35f391192_00) es una idea de negocio diseñada e ideada por [Alberto Rodríguez](https://es.linkedin.com/in/alberto-rodr%C3%ADguez-granados-a024ba13b), [Fernando Cosa](https://es.linkedin.com/in/fernando-cosa-romero-9855ab132) y [Fernando Bueno](https://es.linkedin.com/in/fernando-bueno-romero-9796b011a), desarrollado en la Universidad [EUSA - Nuevas Profesiones](https://www.eusa.es/).
 
 ## Preview
 
