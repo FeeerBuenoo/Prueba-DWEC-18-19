@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Grayscale Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
+[![Google Airport Page Preview](https://plus.google.com/u/0/photos/photo/110373858294307635009/6610390921524445250?authkey=COa9we-Hhc-cygE)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
