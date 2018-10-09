@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Google Airport Page Preview](https://plus.google.com/u/0/photos/photo/110373858294307635009/6610390921524445250?authkey=COa9we-Hhc-cygE)](https://plus.google.com/u/0/photos/photo/110373858294307635009/6610390921524445250?authkey=COa9we-Hhc-cygE)
+[![Google Airport Page Preview](https://pbs.twimg.com/media/DpFEC9BXgAEcUf1.jpg:large)](https://plus.google.com/u/0/photos/photo/110373858294307635009/6610390921524445250?authkey=COa9we-Hhc-cygE)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
