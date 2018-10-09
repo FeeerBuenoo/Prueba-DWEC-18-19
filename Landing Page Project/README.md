@@ -23,7 +23,7 @@ Nuestro proyecto está explicado de manera esquemática en la página web; difer
 * Implementación
 * Contacto
 
-### Usabilidad básica
+### Usabilidad
 
 La página está enfocada a encontrar información sobre nuestra idea y cómo la desarrollamos, a parte de mostrar los aspectos clave y proporcionar una sección de contacto para que cualquier persona que esté interesada en nuestra aplicación, pueda obtener más información mediante dirección de correo electrónico o por diversas vías de contacto.
 
